@@ -47,9 +47,10 @@ Coin drops are random, and my numbers were measured with the units from the scre
 
 1. Install AutoHotkey v2 (see Requirements).
 2. Set up the key mapping and the deck as in the screenshots.
-3. Download the `.ahk` file you need and double-click it. A "Script PAUSED" popup appears in the top-left corner.
-4. Start the mission and press **F1 at the same moment**. You'll hear a high beep and the popup will say "Script RUNNING".
-5. Press **F1** again to pause. After a pause the timers start from zero, so resume only when a new mission starts. To close the script, right-click its tray icon → Exit.
+3. Download the `.ahk` file you need and put it into the **`AutoHotkey` folder inside your Documents** (`Documents\AutoHotkey`, it appears after you install AutoHotkey). It's just a convenient place to keep all your scripts together. If you don't see the folder, create it yourself or use any other folder, because the script works from anywhere.
+4. Double-click the script. A "Script PAUSED" popup appears in the top-left corner.
+5. Start the mission and press **F1 at the same moment**. You'll hear a high beep and the popup will say "Script RUNNING".
+6. Press **F1** again to pause. After a pause the timers start from zero, so resume only when a new mission starts. To close the script, right-click its tray icon → Exit.
 
 ### How it works
 
@@ -77,7 +78,7 @@ Other settings (`keyGap`, `startOnLaunch`, `popupX`/`popupY`) are explained in t
 - The game window has to stay active, because the script sends keys to the active window.
 - If the game ignores the keys, try running the script as administrator.
 
-Use at your own risk: automating inputs may go against the game's rules. Unofficial fan tool, not affiliated with the game's developers. Questions or ideas? Open an issue.
+Use at your own risk: automating inputs may go against the game's rules. Unofficial fan tool, not affiliated with the game's developers.
 
 ---
 
@@ -128,9 +129,10 @@ Use at your own risk: automating inputs may go against the game's rules. Unoffic
 
 1. Установите AutoHotkey v2 (см. «Требования»).
 2. Настройте раскладку клавиш и колоду, как на скриншотах.
-3. Скачайте нужный `.ahk` файл и запустите двойным кликом. В левом верхнем углу появится окошко «Скрипт на ПАУЗЕ».
-4. Начните миссию и **в тот же момент** нажмите **F1**. Прозвучит высокий сигнал, а в окошке будет «Скрипт ЗАПУЩЕН».
-5. **F1** ещё раз — пауза. После паузы таймеры начинаются с нуля, поэтому возобновляйте только с началом новой миссии. Чтобы закрыть скрипт, щёлкните правой кнопкой по его значку в трее → Exit.
+3. Скачайте нужный `.ahk` файл и поместите его в папку **`AutoHotkey` внутри «Документов»** (`Документы\AutoHotkey`, она появляется после установки AutoHotkey). Это просто удобное место, чтобы хранить все скрипты вместе. Если такой папки нет, создайте её сами или возьмите любую другую, потому что скрипт работает из любой папки.
+4. Запустите скрипт двойным кликом. В левом верхнем углу появится окошко «Скрипт на ПАУЗЕ».
+5. Начните миссию и **в тот же момент** нажмите **F1**. Прозвучит высокий сигнал, а в окошке будет «Скрипт ЗАПУЩЕН».
+6. **F1** ещё раз — пауза. После паузы таймеры начинаются с нуля, поэтому возобновляйте только с началом новой миссии. Чтобы закрыть скрипт, щёлкните правой кнопкой по его значку в трее → Exit.
 
 ### Как это работает
 
