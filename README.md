@@ -20,8 +20,8 @@ The EN and RU files do exactly the same thing. Only the comments and the on-scre
 
 ### Results (from my own runs)
 
-- **Mode 1 (3:20):** ~10,000–12,000 coins per 10 missions (20 fuel). It runs until the fuel is gone.
-- **Mode 2 (20:50):** ~3,000–3,600 coins per hour, which is **~72,000–86,400 coins per 24 h**, completely hands-off.
+- **Mode 1 (3:20):** ~10,000 coins per 10 missions (20 fuel). It runs until the fuel is gone.
+- **Mode 2 (20:50):** ~3,000 coins per hour, which is **~72,000 coins per 24 h**, completely hands-off.
 
 **Why 20 min 50 s?** One mission costs 2 fuel, and 20:50 is the time the game needs to regenerate those 2 fuel. By the time the script hits Retry, the fuel is already back, so the run restarts without any ads.
 
@@ -102,8 +102,8 @@ Use at your own risk: automating inputs may go against the game's rules. Unoffic
 
 ### Результаты (мои запуски)
 
-- **Режим 1 (3:20):** ~10 000–12 000 монет за 10 миссий (20 топлива). Работает, пока не закончится топливо.
-- **Режим 2 (20:50):** ~3 000–3 600 монет в час, то есть **~72 000–86 400 монет за 24 часа**, полностью без участия человека.
+- **Режим 1 (3:20):** ~10 000 монет за 10 миссий (20 топлива). Работает, пока не закончится топливо.
+- **Режим 2 (20:50):** ~3 000 монет в час, то есть **~72 000 монет за 24 часа**, полностью без участия человека.
 
 **Почему 20 мин 50 сек?** Миссия стоит 2 топлива, и за 20:50 игра как раз восстанавливает эти 2 топлива. К моменту нажатия Retry топливо уже вернулось, поэтому миссия перезапускается без рекламы.
 
